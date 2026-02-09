@@ -1,0 +1,5 @@
+{
+  "name": "Gerdau Position Tracker",
+  "description": "A productivity and invoicing tracker for Gerdau analysis tasks, calculating earnings based on positions and boards.",
+  "requestFramePermissions": []
+}
